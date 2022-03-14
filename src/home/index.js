@@ -1,3 +1,4 @@
+import { Input } from 'antd';
 import './index.css';
 
 const App = () => {
@@ -5,7 +6,15 @@ const App = () => {
 
   return (
     <section className="App" style={{ height: height }}>
+      <div className='homePage-title'>
+        PARKING JUST GET A LOT FASTER
+      </div>
+      <div>
+        <Input />
+      </div>
+      <div>
 
+      </div>
     </section>
   );
 }

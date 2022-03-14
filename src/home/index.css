@@ -3,3 +3,11 @@
   background-image: url("../home/image/CarPark.jpg");
   background-size:100% 100%;
 }
+.homePage-title{
+  font-size: 60px;
+  width: 100%;
+  text-align: center;
+  padding-top: 200px;
+  color: #fff;
+  font-weight: bold;
+}
